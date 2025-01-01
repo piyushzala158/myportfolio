@@ -1,0 +1,110 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Piyush Zala. Enthusiastic Front-End Developer with 2 years of experience building user-friendly and responsive web applications. Adept at utilizing a diverse tech stack including Next.js, React.js, MUI, Firebase, WebSockets, Auth0, Tailwind CSS, SCSS, Prisma, and React Native. Skilled in state management libraries such as Redux and Recoil, form handling with Formik, and animation libraries like Framer Motion. Strong communicator with proven ability to collaborate effectively with cross-functional teams and engage with clients to gather requirements, provide updates, and deliver high-quality solutions.Passionate about creating intuitive and visually appealing UIs while staying up-to-date with the latest front-end trends. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Animal Shelter",
+      "startDate": "2023",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Photography",
+      "startDate": "2023",
+      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "3D Object Viewer",
+      "startDate": "2023",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Zignuts Technolab",
+      "title": "Front-End Developer",
+      "years": "01.2023 - present",
+      "mainTech": ["Next js"],
+      "technologies": [
+        "NEXT JS",
+        "React JS",
+        "JavaScript",
+        "Typescript",
+        "Material UI",
+        "Tailwind CSS",
+        "firebase",
+        "SignalR",
+        "HTML5",
+        "CSS3",
+        "Webpack"
+      ]
+    },
+    {
+      "company": "Brainy Beam LTD.",
+      "title": "Intern",
+      "years": "06.2022 - 07.2022",
+      "mainTech": ["Django"],
+      "technologies": ["Django", "python", "JavaScript", "HTML"]
+    }
+  ]
+}

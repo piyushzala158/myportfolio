@@ -1,0 +1,159 @@
+{
+  "basic_info": {
+    "name": "Piyush Zala",
+    "titles": ["Front-end Developer", "Mobile App Developer"],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/piyushzala158",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "React js",
+        "class": "devicon-react-original",
+        "level": "95"
+      },
+      {
+        "name": "Next js",
+        "class": "devicon-nextjs-original-wordmark",
+        "level": "90"
+      },
+      {
+        "name": "Firebase",
+        "class": "devicon-firebase-plain",
+        "level": "85"
+      },
+      {
+        "name": "MUI",
+        "class": "devicon-materialui-plain",
+        "level": "90"
+      },
+
+      {
+        "name": "Tailwind CSS",
+        "class": "devicon-tailwindcss-original",
+        "level": "90"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "75"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "Redux",
+        "class": "devicon-redux-original",
+        "level": "85"
+      },
+      {
+        "name": "React router",
+        "class": "devicon-reactrouter-plain",
+        "level": "85"
+      },
+      {
+        "name": "oAuth",
+        "class": "devicon-oauth-plain",
+        "level": "85"
+      },
+      {
+        "name": "Supabase",
+        "class": "devicon-supabase-plain",
+        "level": "85"
+      },
+      {
+        "name": "Prisma",
+        "class": "devicon-prisma-original",
+        "level": "85"
+      },
+      {
+        "name": "Swiper JS",
+        "class": "devicon-swiper-original",
+        "level": "85"
+      },
+      {
+        "name": "AWS",
+        "class": "devicon-amazonwebservices-plain-wordmark",
+        "level": "90"
+      },
+      {
+        "name": "Azure",
+        "class": "devicon-azure-plain",
+        "level": "90"
+      },
+      {
+        "name": "Bitbucket",
+        "class": "devicon-bitbucket-original",
+        "level": "90"
+      },
+      {
+        "name": "Webpack",
+        "class": "devicon-webpack-plain",
+        "level": "85"
+      },
+      {
+        "name": "Babel",
+        "class": "devicon-babel-plain",
+        "level": "85"
+      },
+      {
+        "name": "Vite js",
+        "class": "devicon-vitejs-plain",
+        "level": "85"
+      },
+      {
+        "name": "Jest",
+        "class": "devicon-jest-plain",
+        "level": "85"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain",
+        "level": "85"
+      },
+      {
+        "name": "Github",
+        "class": "devicon-github-original",
+        "level": "85"
+      },
+      {
+        "name": "jira",
+        "class": "devicon-jira-plain",
+        "level": "85"
+      }
+    ]
+  }
+}
